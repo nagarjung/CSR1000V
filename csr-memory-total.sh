@@ -1,9 +1,9 @@
 #!/bin/bash
-host=175.126.103.50
+host=Host_IP_Address
 metric1=csr.memory.available
 metric2=csr.memory.used
 metric3=csr.memory.free
-csr_id=172.25.28.118
+csr_id=Tenant_ID
 #i=$3
 #j=4
 
